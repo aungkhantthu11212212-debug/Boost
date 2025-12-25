@@ -1,1 +1,1 @@
-worker: python booster.py
+web: python booster.py
