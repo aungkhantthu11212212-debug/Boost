@@ -1,2 +1,2 @@
 # Boost
-booster.py
+python booster.py
